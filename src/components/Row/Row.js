@@ -65,6 +65,10 @@ const Row = ({ title, fetchUrl, isLarge }) => {
 				})}
 			</div>
 			{trailerUrl && <Youtube videoId={trailerUrl} opts={opts} />}
+<<<<<<< HEAD
+=======
+			
+>>>>>>> 4bf02b083819d80003dfc711a18f5b114d491cc3
 		</div>
 	);
 };
